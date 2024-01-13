@@ -216,7 +216,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Action: Explored tray data using a combination of Python, R, and Tableau and reported findings to stakeholders to develop a feasible optimization model. The scheduling optimization model was developed using Microsoft Excel to allow for increased adoption within the organization and further interpretability of the proposed schedule
 - Result: With the help of SPD leadership, clinical staff, and UNC Rex Performance Improvement team feedback, we developed an optimized model we recommended to be put in place and help inform scheduling in a data-driven manner. Beyond the initial scope of the project, we applied Lean and Six Sigma principles to recommend additional sources of optimization to the SPD department to further drive efficiency
 
-### Link to Final Deliverable:
+### Link to Project Repository and Final Deliverables:
 - No public GitHub repository or deliverables are available for this project due to the confidential nature of the work
 
 ### Additional Notes:
@@ -243,7 +243,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Action: Conducted extensive statistical analysis in R and Python to better understand room utilization and scheduling patterns based on stakeholder sentiment and feedback from leadership
 - Result: Successfully recommended a 3-phase approach to leaders within Duke Health to improve KPIs developed over the course of the project
 
-### Link to Final Deliverable:
+### Link to Project Repository and Final Deliverables:
 - No public GitHub repository or deliverables are available for this project due to the confidential nature of the work
 
 ### Additional Notes:

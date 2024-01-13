@@ -3,7 +3,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 
 # Contact Information:
 - Cell Phone: 704-219-8999
-- Email: [zhhorton@mit.edu](mailto:zhhorton@mit.edu) OR [zachary.h.horton@gmail.com](mailto:zachary.h.horton@gmail.com)
+- Email: [zhhorton@mit.edu](mailto:zhhorton@mit.edu) or [zachary.h.horton@gmail.com](mailto:zachary.h.horton@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/zack-h-horton/](https://www.linkedin.com/in/zack-h-horton/)
 - GitHub: [zack-horton](https://github.com/zack-horton)
 

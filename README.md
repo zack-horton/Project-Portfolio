@@ -7,6 +7,10 @@ This is the project portfolio for Zachary "Zack" Horton, a Candidate for MIT's M
 - LinkedIn: [https://www.linkedin.com/in/zack-h-horton/](https://www.linkedin.com/in/zack-h-horton/)
 - GitHub: [zack-horton](https://github.com/zack-horton)
 
+*** 
+
+# Projects:
+
 ## MIT Sloan | NICB - Analytics Lab Project
 
 ### Technical Skills, Software Tools, Programming Languages, and Frameworks:

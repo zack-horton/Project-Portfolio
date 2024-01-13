@@ -1,6 +1,12 @@
 # Zack Horton's Project Portfolio Overview:
 This is the project portfolio for Zachary Horton, a Candidate for MIT's Master of Business Analytics, a joint program between MIT Sloan and MIT Operations Research Center, and a graduate of North Carolina State University, holding a B.S. in Industrial and Systems Engineering
 
+# Contact Information:
+- Cell Phone: -704-219-8999
+- Email: [zhhorton@mit.edu](zhhorton@mit.edu) OR [zachary.h.horton@gmail.com](zachary.h.horton@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/zack-h-horton/](https://www.linkedin.com/in/zack-h-horton/)
+- GitHub: [zack-horton](https://github.com/zack-horton)
+
 ## MIT Sloan | NICB - Analytics Lab Project
 
 ### Technical Skills, Software Tools, Programming Languages, and Frameworks:
@@ -53,8 +59,8 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 
 ### Link to Project Repository and Final Deliverables:
 - [GitHub Repository](https://github.com/Theo-Dawson/A_EDGE)
-- [Project Report]()
-- [Project Presentation]()
+- [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/Deciphering%20Market%20Dynamics/15.072%20-%20Advanced%20Analytics%20Edge%20Report.pdf)
+- [Project Presentation](https://github.com/zack-horton/Project-Portfolio/blob/main/Deciphering%20Market%20Dynamics/15.072%20-%20Advanced%20Analytics%20Edge%20Presentation.pdf)
 
 ### Additional Notes:
 - Completed project as a part of the course: 15.072 (Advanced Analytics Edge)
@@ -80,7 +86,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Result: Found the top 10 drivers of premium conversion for users and integrated those metrics into an overarching marketing strategy. Formulated the details of the business strategy, data-driven evidence, and evidence-based analysis for CMO in the final report
 
 ### Link to Final Deliverable:
-- [Project Report]()
+- [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/Digital%20Marketing%20Strategy/High%20Note%20Final%20Report.pdf)
 
 ### Additional Notes:
 - Completed project as a part of the course: 15.570 (Digital Marketing and Social Media Analytics)
@@ -106,9 +112,9 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Results: Conducted 216 different tests in order to create final model results for evaluation. Additionally, added benchmarking between warm and cold-start solutions to our optimization models, showing the impact that a combined heuristic and optimization model may have. Finally, due to both clustering methods being NP-hard optimization problems, we gained a better understanding of the computation complexity of these types of problems. Developed presentation and report in order to communicate key findings and detail the technical decision-making process
 
 ### Link to Project Repository and Final Deliverables:
-- [GitHub Repository]()
-- [Project Report]()
-- [Project Presentation]()
+- [GitHub Repository](https://github.com/zack-horton/ML-Project)
+- [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/Optimal%20Clustering/15.095%20-%20Machine%20Learning%20Project%20Report.pdf)
+- [Project Presentation](https://github.com/zack-horton/Project-Portfolio/blob/main/Optimal%20Clustering/15.095%20-%20Machine%20Learning%20Project%20Presentation.pdf)
 
 ### Additional Notes:
 - Completed project as a part of the course: 15.095 (Machine Learning Under a Modern Optimization Lens)
@@ -132,9 +138,10 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Result: Successful development of a mixed-integer optimization model that is scalable, environmentally friendly, and profitable. Developed presentation and report in order to communicate key findings and detail the technical decision-making process
 
 ### Link to Project Repository and Final Deliverables:
-- [GitHub Repository]()
-- [Project Report]()
-- [Project Presentation]()
+- [GitHub Repository](https://github.com/zack-horton/Opt-Project)
+- [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/Green%20Epichlorohydrin/15.093%20-%20Optimization%20Project%20Report.pdf)
+- [Project Presentation](https://github.com/zack-horton/Project-Portfolio/blob/main/Green%20Epichlorohydrin/15.093%20-%20Optimization%20Project%20Presentation.pdf)
+- [Network Diagram](https://github.com/zack-horton/Project-Portfolio/blob/main/Green%20Epichlorohydrin/Optimization%20Project%20Diagram.pdf)
 
 ### Additional Notes:
 - Completed project as a part of course: 15.093 (Optimization Methods)
@@ -150,7 +157,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Object Oriented Programming (OOP)
 
 ### Research Advisors:
-[Dr. Sara Shashaani]() and [Dr. David Eckman]()
+[Dr. Sara Shashaani](https://www.linkedin.com/in/sara-shashaani-026709103/) and [Dr. David Eckman](https://www.linkedin.com/in/david-eckman-08906342/)
 
 ### S.T.A.R. Framework
 - Situation: SimOpt, an open-source testbed of simulation-optimization problems and solvers needed a graphical user interface developed after transitioning the codebase from MATLAB to Python for additional capability and improved user experience
@@ -159,7 +166,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Result: Developed great relationship with Dr. Shashaani and Dr. Eckman through 2 years of work on the project. Wrote over 5,000 lines of code to develop various features over the course of the project and transitioned work to a new undergraduate developer upon my graduation from NC State
 
 ### Link to Project Repository and Research Paper:
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/simopt-admin/simopt)
 - [INFORMS Journal on Computing Paper](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2023.1273)
 
 ### Additional Notes:
@@ -179,7 +186,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Object Oriented Programming (OOP)
 
 ### Research Advisors:
-[Dr. Maria Mayorga]() and [Dr. Julie Ivy]()
+[Dr. Maria Mayorga](https://www.linkedin.com/in/maria-mayorga-12228612/) and [Dr. Julie Ivy](https://www.linkedin.com/in/julie-ivy-b8a04821/)
 
 ### S.T.A.R. Framework
 - Situation: Determine key factors of severity progression for patients diagnosed with diabetic retinopathy or macular edema through applied statistical and mathematical models
@@ -190,7 +197,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 
 ### Link to Project Repository:
 - No public GitHub repository is available for this project due to the confidential nature of the work
-- [Undergraduate Research Poster]()
+- [Undergraduate Research Poster](https://github.com/zack-horton/Project-Portfolio/blob/main/Diabetic%20Retinopathy%20and%20Macular%20Edema/ISE%20495%20-%20Zack%20Horton%20-%20Research%20Poster.pdf)
 
 ### Additional Notes:
 - Completed project for course credit: ISE 495 (Project Work in ISE)

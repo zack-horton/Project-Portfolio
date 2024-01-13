@@ -2,8 +2,8 @@
 This is the project portfolio for Zachary Horton, a Candidate for MIT's Master of Business Analytics, a joint program between MIT Sloan and MIT Operations Research Center, and a graduate of North Carolina State University, holding a B.S. in Industrial and Systems Engineering
 
 # Contact Information:
-- Cell Phone: -704-219-8999
-- Email: [zhhorton@mit.edu](zhhorton@mit.edu) OR [zachary.h.horton@gmail.com](zachary.h.horton@gmail.com)
+- Cell Phone: 704-219-8999
+- Email: [zhhorton@mit.edu](mailto:zhhorton@mit.edu) OR [zachary.h.horton@gmail.com](mailto:zachary.h.horton@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/zack-h-horton/](https://www.linkedin.com/in/zack-h-horton/)
 - GitHub: [zack-horton](https://github.com/zack-horton)
 

@@ -1,6 +1,8 @@
 # Zack Horton's Project Portfolio Overview:
 This is the project portfolio for Zachary "Zack" Horton, a Candidate for MIT's Master of Business Analytics, a joint program between MIT Sloan and MIT Operations Research Center, and a graduate of North Carolina State University, holding a B.S. in Industrial and Systems Engineering with a minor in Statistics and a certificate in Health Systems Engineering.
 
+*Note: This portfolio does not contain information related to internship projects, see resume or contact me for additional details on those 3 projects*
+
 # Contact Information:
 - Cell Phone: 704-219-8999
 - Email: [zhhorton@mit.edu](mailto:zhhorton@mit.edu) or [zachary.h.horton@gmail.com](mailto:zachary.h.horton@gmail.com)

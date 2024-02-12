@@ -14,20 +14,20 @@ This is the project portfolio for Zachary "Zack" Horton, a Candidate for MIT's M
 
 # Projects:
 
-## MIT Sloan | Thermo Fisher Scientific - Capstone Project [In progress]
-
-### Technical Skills, Software Tools, Programming Languages, and Frameworks:
-- Git / GitHub
-- R (Programming Language)
-- Python (Programming Language)
-- Machine Learning for Time-Series (SARIMA-GARCH, LSTMs, Time-Series Transformers, etc.)
-
-### Teammates:
-[Tanner Street](https://www.linkedin.com/in/tannerstreet/)
-
-### S.T.A.R. Framework:
-- Forecasting customer demand and new sales winds by analyzing historical CPQ and current Salesforce pipeline data
-- S.T.A.R. sections will be updated as the project progresses
+## In Progress [Spring Semester 2024]:
+1. MIT Sloan | Thermo Fisher Scientific: Forecasting Customer Demand
+    - 7-month project [February - August], equivalent to a master's thesis
+    - For 15.089 Analytics Capstone
+2. Fine-tuning LLMs
+    - For 15.773 Hands-on Deep Learning
+3. TBD: Building an end-to-end Data Product or Data Processing System
+    - For 6.S079 Software Systems for Data Science
+4. TBD: Applied Data Analytics
+    - For 15.S07 Real-time Analytics for Digital Platforms
+5. TBD: Applied Product Analytics
+    - For 15.819 Marketing and Product Analytics
+6. Does Management Matter?
+    - For 15.034 Econometrics for Managers
 
 ***
 

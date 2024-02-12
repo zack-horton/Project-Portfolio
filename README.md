@@ -20,14 +20,14 @@ This is the project portfolio for Zachary "Zack" Horton, a Candidate for MIT's M
 - Git / GitHub
 - R (Programming Language)
 - Python (Programming Language)
-- Machine Learning for Time-Series (SARIMA, LSTMs, Transformers, etc.)
+- Machine Learning for Time-Series (SARIMA-GARCH, LSTMs, Time-Series Transformers, etc.)
 
 ### Teammates:
 [Tanner Street](https://www.linkedin.com/in/tannerstreet/)
 
 ### S.T.A.R. Framework:
 - Forecasting customer demand and new sales winds by analyzing historical CPQ and current Salesforce pipeline data
-- S.T.A.R. sections will be updates as project progresses
+- S.T.A.R. sections will be updated as the project progresses
 
 ***
 

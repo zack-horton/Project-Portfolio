@@ -196,7 +196,7 @@ This is the project portfolio for Zachary "Zack" Horton, a Candidate for MIT's M
 ### Additional Notes:
 - Awarded research stipend through REU funding from Edward P. Fitts Department of Industrial and Systems Engineering
 - Acknowledged by project leaders in a paper published in INFORMS Journal on Computing 35(2):495-508 for contributions to the project
-- 
+
 ***
 
 ## Undergraduate Research: Exploring Diabetic Retinopathy and Macular Edema through Data Analytics

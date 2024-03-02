@@ -8,7 +8,6 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Email: [zhhorton@mit.edu](mailto:zhhorton@mit.edu) or [zachary.h.horton@gmail.com](mailto:zachary.h.horton@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/zack-h-horton/](https://www.linkedin.com/in/zack-h-horton/)
 - GitHub: [zack-horton](https://github.com/zack-horton)
-- [Resume](https://github.com/zack-horton/Project-Portfolio/blob/main/Zack%20Horton%20-%20Resume.pdf)
 
 *** 
 

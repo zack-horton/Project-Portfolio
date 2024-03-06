@@ -17,7 +17,8 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 1. MIT Sloan | Thermo Fisher Scientific: Forecasting Customer Demand
     - 7-month project [February - August], equivalent to a master's thesis
     - For 15.089 Analytics Capstone
-2. S&P 500 Forecasting using LSTMs with LLM Interface for Day Trading (with Streamlit Application)
+2. SlotMarketSQL
+    - S&P 500 Forecasting using LSTMs and Transformer LLM Interface, used by Day Traders (Streamlit Application)
     - For 15.773 Hands-on Deep Learning
     - [GitHub Repository](https://github.com/zack-horton/HODL-Project)
 3. Real-time Price Comparison for Boston, MA Uber and Lyft Rides + QLearning Optimal Driver Strategy (with Streamlit Application)

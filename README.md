@@ -33,6 +33,38 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 
 ***
 
+## SlotMarketSQL
+
+### Technical Skills, Software Tools, Programming Languages, and Frameworks:
+- Financial forecasting
+- Time-series forecasting
+- Deep Learning
+- Transformer Encoder Architecture
+- TensorFlow / Keras
+- Python (Programming Language)
+- R (Programming Language)
+- tensorflow (Python), keras (Python), scikit-learn (Python), ggplot2 (R)
+
+### Teammates:
+- [Tanner Street](https://www.linkedin.com/in/tannerstreet/), [Virginia Maguire](), and [Yutong Zhang]()
+
+### S.T.A.R. Framework:
+- Situation: NICB needed to predict the volume of fraudulent claims better and identify high-fraud events related to tropical storms and hurricanes to better forecast investigative workload
+- Task #1: Conduct EDA (exploratory data analysis) on 690,000 fraudulent claims and 127 tropical storms over the last 18 years to understand key factors of storm-related fraud
+- Task #2: Develop regression models to predict the expected number of fraudulent claims from given tropical storm data, and classification models to determine if a tropical storm will be considered a "high-fraud" event
+- Action: Created regression models based on linear, lasso, ridge, holistic, CART, ORT, ORT-H, regression-leaf CART trees, Random Forest, and XGBoost and classification models based on logistic, CART, OCT, OCT-H, Random Forest, and XGBoost models.
+- Result: Presented machine learning models and final results to senior data scientist at NICB and at Analytics Lab Presentation Day
+
+### Link to Project Repository and Final Deliverables:
+- No public GitHub repository or deliverables are available for this project due to the confidential nature of the work
+
+### Additional Notes:
+- Completed project as a part of the course: 15.773 (Hands-on Deep Learning)
+- [GitHub Repository](https://github.com/zack-horton/HODL-Project/tree/main)
+- [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/Deciphering%20Market%20Dynamics/15.072%20-%20Advanced%20Analytics%20Edge%20Report.pdf)
+- [Project Presentation](https://github.com/zack-horton/Project-Portfolio/blob/main/Deciphering%20Market%20Dynamics/15.072%20-%20Advanced%20Analytics%20Edge%20Presentation.pdf)
+
+***
 ## MIT Sloan | NICB - Analytics Lab Project
 
 ### Technical Skills, Software Tools, Programming Languages, and Frameworks:

@@ -80,8 +80,8 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 
 ### Link to Project Repository and Final Deliverables:
 - [GitHub Repository](https://github.com/zack-horton/RTA-Project/blob/main/RTA%20Final%20Presentation.pdf)
-- [Project Report]()
-- [Project Presentation]()
+- [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/Rideshare%20Optimization/RTA%20Final%20Project.pdf)
+- [Project Presentation](https://github.com/zack-horton/Project-Portfolio/blob/main/Rideshare%20Optimization/RTA%20Final%20Presentation.pdf)
 
 ### Additional Notes:
 - Completed project as a part of the course: 15.S07 (Real-time Analytics for Digital Platforms)

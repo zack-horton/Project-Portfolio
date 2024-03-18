@@ -17,18 +17,9 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 1. MIT Sloan | Thermo Fisher Scientific: Forecasting Customer Demand
     - 7-month project [February - August], equivalent to a master's thesis
     - For 15.089 Analytics Capstone
-2. SlotMarketSQL
-    - S&P 500 Forecasting using LSTMs and Transformer LLM Interface, used by Day Traders (Streamlit Application)
-    - For 15.773 Hands-on Deep Learning
-    - [GitHub Repository](https://github.com/zack-horton/HODL-Project)
-3. Real-time Price Comparison for Boston, MA Uber and Lyft Rides + QLearning Optimal Driver Strategy (with Streamlit Application)
-    - For 15.S07 Real-time Analytics for Digital Platforms
-    - [GitHub Repository](https://github.com/zack-horton/RTA-Project)
-4. TBD: Building an end-to-end Data Product or Data Processing System
-    - For 6.S079 Software Systems for Data Science
-5. TBD: Applied Product Analytics
+2. TBD: Applied Product Analytics
     - For 15.819 Marketing and Product Analytics
-6. Does Management Matter?
+3. Does Management Matter?
     - For 15.034 Econometrics for Managers
 
 ***
@@ -44,7 +35,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Python (Programming Language)
 - R (Programming Language)
 - Streamlit
-- tensorflow (Python), keras (Python), scikit-learn (Python), ggplot2 (R)
+- tensorflow/keras (Python), scikit-learn (Python), ggplot2 (R)
 
 ### Teammates:
 - [Tanner Street](https://www.linkedin.com/in/tannerstreet/), [Virginia Maguire](https://www.linkedin.com/in/virginia-maguire/), and [Yutong Zhang](https://www.linkedin.com/in/yutong-zhang11235813/)
@@ -54,7 +45,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Task #1: Produce time-series forecasts for the entire S&P 500 stocks and export the daily updates to a CSV file that is accessible to the front-end chatbot.
 - Task #2: Build a slot-filling model to take an investment question and produce the appropriate SQL query to return to the user to inform their investment decisions.
 - Action: Created LSTM models for time-series forecasting and transformer-encoder model for slot-filling, and packaged them in a Streamlit application for accessibility to users.
-- Result: Developed final presentation and report for project deliverables with a Streamlit application for user-interface.
+- Result: Developed final presentation and report for project deliverables with a Streamlit application for user interface.
 
 ### Link to Project Repository and Final Deliverables:
 - [GitHub Repository](https://github.com/zack-horton/HODL-Project/tree/main)
@@ -64,6 +55,36 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 
 ### Additional Notes:
 - Completed project as a part of the course: 15.773 (Hands-on Deep Learning)
+
+***
+
+## Real-Time Analytics for Rideshare App Optimization
+
+### Technical Skills, Software Tools, Programming Languages, and Frameworks:
+- Reinforcement Learning (Q-Learning)
+- Machine Learning
+- TensorFlow / Keras
+- Python (Programming Language)
+- Streamlit
+- tensorflow/keras (Python), scikit-learn (Python)
+
+### Teammates:
+- [Emily Hahn](https://www.linkedin.com/in/emilyhahn15/), [Mackenzie Lees](https://www.linkedin.com/in/mackenzie-lees/), and [Ghazanfar Yezdan](https://www.linkedin.com/in/ghazanfaryezdan/)
+
+### S.T.A.R. Framework:
+- Situation: Often when looking for rideshare services like Uber and Lyft, we have to check both apps for the cheaper option. This takes time for users and ironically can change the actual prices offered to users through in-app tracking. Additionally, drivers may not properly evaluate the short-term versus long-term reward of taking one ride or another. Therefore, we need to produce a product that offers optimal decision-making to both riders and drivers.
+- Task #1: Build machine learning models to learn the pricing strategy of rides in Boston, MA.
+- Task #2: Build a reinforcement learning model to learn the optimal state transition given their current conditions.
+- Action: We developed a Streamlit application that offers one page for riders who can check the cheaper option for a given ride and another page that offers drivers the optimal next ride based on their current state.
+- Result: Developed final presentation and report for project deliverables with a Streamlit application for user interface.
+
+### Link to Project Repository and Final Deliverables:
+- [GitHub Repository](https://github.com/zack-horton/RTA-Project/blob/main/RTA%20Final%20Presentation.pdf)
+- [Project Report]()
+- [Project Presentation]()
+
+### Additional Notes:
+- Completed project as a part of the course: 15.S07 (Real-time Analytics for Digital Platforms)
 
 ***
 

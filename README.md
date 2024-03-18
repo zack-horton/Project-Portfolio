@@ -60,6 +60,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - [GitHub Repository](https://github.com/zack-horton/HODL-Project/tree/main)
 - [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/SlotMarketSQL/HODL%20Project%20Report.pdf)
 - [Project Presentation](https://github.com/zack-horton/Project-Portfolio/blob/main/SlotMarketSQL/HODL%20Final%20Presentation.pdf)
+- [Video Demo](https://youtu.be/6LSi1ffWxeE)
 
 ### Additional Notes:
 - Completed project as a part of the course: 15.773 (Hands-on Deep Learning)

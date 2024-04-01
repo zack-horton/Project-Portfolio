@@ -79,7 +79,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - Result: Developed final presentation and report for project deliverables with a Streamlit application for user interface.
 
 ### Link to Project Repository and Final Deliverables:
-- [GitHub Repository](https://github.com/zack-horton/RTA-Project/blob/main/RTA%20Final%20Presentation.pdf)
+- [GitHub Repository](https://github.com/zack-horton/RTA-Project)
 - [Project Report](https://github.com/zack-horton/Project-Portfolio/blob/main/Rideshare%20Optimization/RTA%20Final%20Project.pdf)
 - [Project Presentation](https://github.com/zack-horton/Project-Portfolio/blob/main/Rideshare%20Optimization/RTA%20Final%20Presentation.pdf)
 

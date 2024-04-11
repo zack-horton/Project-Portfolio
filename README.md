@@ -43,7 +43,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 
 ### S.T.A.R. Framework:
 - Situation: Investors without the ability to do their in-depth research should be able to easily find relevant investment opportunities. Given the recent adoption of generative AI, transformer models, and chatbots, we should develop a comprehensive system to interface with investors through a simple question-and-answer framework.
-- Task #1: Produce time-series forecasts for the entire S&P 500 stocks and export the daily updates to a CSV file that is accessible to the front-end chatbot.
+- Task #1: Produce time-series forecasts for all individual stocks within the S&P 500 list and export the daily updates to a CSV file that is accessible to the front-end chatbot.
 - Task #2: Build a slot-filling model to take an investment question and produce the appropriate SQL query to return to the user to inform their investment decisions.
 - Action: Created LSTM models for time-series forecasting and transformer-encoder model for slot-filling, and packaged them in a Streamlit application for accessibility to users.
 - Result: Developed final presentation and report for project deliverables with a Streamlit application for user interface.

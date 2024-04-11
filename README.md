@@ -253,7 +253,7 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 - [INFORMS Journal on Computing Paper](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2023.1273)
 
 ### Additional Notes:
-- Awarded research stipend through REU funding from Edward P. Fitts Department of Industrial and Systems Engineering
+- Awarded two research stipends from the Edward P. Fitts Department of Industrial and Systems Engineering
 - Acknowledged by project leaders in a paper published in INFORMS Journal on Computing 35(2):495-508 for contributions to the project
 
 ***

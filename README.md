@@ -15,13 +15,9 @@ This is the project portfolio for Zachary Horton, a Candidate for MIT's Master o
 # Projects:
 
 ## In Progress [Spring Semester 2024]:
-1. MIT Sloan | Thermo Fisher Scientific: Forecasting Customer Demand
+MIT Sloan | Thermo Fisher Scientific: Forecasting Customer Demand
     - 7-month project [February - August], equivalent to a master's thesis
     - For 15.089 Analytics Capstone
-2. TBD: Applied Product Analytics
-    - For 15.819 Marketing and Product Analytics
-3. Does Management Matter?
-    - For 15.034 Econometrics for Managers
 
 ***
 
